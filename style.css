@@ -1,0 +1,31 @@
+h1{
+    text-transform: uppercase;
+    color: chocolate;
+}
+div{
+    background-color: aqua;
+}
+#muc-luc{
+    font-size: 22px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(80, 80, 231);
+    text-decoration:dotted;
+}
+h2 + p {
+    font-size: 19px;
+}
+.title{
+    font-size: 25px;
+}
+.title.title2{
+    color: rgb(221, 42, 42);
+}
+h3 + p {
+    font-size: 17px;
+    font-style: italic;
+}
+#thumbnail{
+    image-orientation: flip;
+}
